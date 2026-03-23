@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CalculadoraTipograficaApplication<Backend-para-la-calculadora-tipografica>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.wima.calculadora_tipografica.CalculadoraTipograficaApplication",
+            "projectName": "Backend-para-la-calculadora-tipografica",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
